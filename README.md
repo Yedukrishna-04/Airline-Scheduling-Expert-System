@@ -20,8 +20,8 @@ An expert system for airline scheduling that helps manage flights, cargo, and op
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/airline-scheduling-expert-system.git
-cd airline-scheduling-expert-system
+git clone https://github.com/Yedukrishna-04/Airline-Scheduling-Expert-System.git
+cd Airline-Scheduling-Expert-System
 ```
 
 2. Install dependencies:
@@ -40,8 +40,4 @@ python gui.py
 
 - `expert_system.py`: Core business logic for the expert system
 - `database.py`: Database operations and data models
-- `gui.py`: Graphical user interface
-
-## License
-
-MIT 
+- `gui.py`: Graphical user interface 
